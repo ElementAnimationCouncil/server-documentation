@@ -6,26 +6,26 @@
 
 ## Ranks and Info
 ### Tier 1 - Guest
-#### Perks
+Perks
 - Total Homes: `5`
-- Total Creative Plots: `1`
+- Total Creative Plots: `1`\
 
 ### Tier 2 - Apprentice
-#### Perks
+Perks
 - Total Homes: `10`
 - Total Creative Plots: `2`
 - Balloons: beachball, soccerball, pride, and pumpkin
-#### Commands
+Commands
 - `/back`
 - `/pcballoons`
 - `/headdb`
-#### Requirements
+Requirements
 - Votes: `20`
 - Mine `256` Oak Logs
 - Mine `512` Stone
 - Kill `100` Monsters
 - Catch `50` Fish
-- Breed `10` Animals
+- Breed `10` Animals\
 
 ### Tier 3 - Artisan Ranks
 - Total Homes: `15`
