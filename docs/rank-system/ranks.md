@@ -3,8 +3,7 @@
 - Note: All requirements are cumulative! Meaning they carry over to the next ranks.
 - Note: Changes can and will be made without notice. All changes will be documented appropriately. 
 - Note: This system is still being changed and optomized for the best player experience. If you believe there is a serious issue with anything, please let a Council know.
----
----
+-----
 
 ## Ranks and Info
 ### Tier 1 - Guest
@@ -36,11 +35,11 @@ Requirements
 - Total Creative Plots: `3`
 
 ### Crafter
-#### Description
+Description
 - The first of the Artisan Ranks; All of the perks of Apprentice, plus more!
-#### Commands
+Commands
 - `/craft`
-#### Requirements
+Requirements
 - Votes: `40`
 - Crafter Job Level: `20`
 - Craft `500` Items
@@ -53,10 +52,10 @@ Requirements
 - Mine `64` Acacia Logs
 
 ### Miner
-#### Description
-#### Commands
+Description
+Commands
 - `/dispose`
-#### Requirements
+Requirements
 - Votes: `80`
 - Miner Job Level: `25`
 - Mine `4096` Total Blocks
@@ -72,10 +71,10 @@ Requirements
 - Enchant `10` Items
 
 ### Blacksmith
-#### Description
-#### Commands
+Description
+Commands
 - `/chestsort`
-#### Requirements
+Requirements
 - Votes: `120`
 - Weaponsmith Job Level: `15`
 - Mine `6144` Blocks
@@ -84,19 +83,18 @@ Requirements
 - Mine `64` Obsidian
 - Mine `24` Deepslate Diamond Ore
 - Enchant `200` Items
-
-
+---
 
 ### Tier 3 - Adventurer Ranks
 - Total Homes: `15`
 - Total Creative Plots: `3`
 
 ### Explorer
-#### Description
-#### Commands
+Description
+Commands
 - `/ptime`
 - `/pweather`
-#### Requirements
+Requirements
 - Votes: `40`
 - Explorer Job Level: `20`
 - Travel `250000` Blocks
@@ -107,10 +105,10 @@ Requirements
 - Talk to `100` Villagers
 
 ### Hunter
-#### Description
-#### Commands
+Description
+Commands
 - `/rtp`
-#### Requirements
+Requirements
 - Votes: `80`
 - Hunter Job Level: `20`
 - Kill `4000` Monsters
@@ -127,10 +125,10 @@ Requirements
 - Catch `348` Fish
 
 ### Trader
-#### Description
-#### Commands
+Description
+Commands
 - `/ec`
-#### Requirements
+Requirements
 - Votes: `120`
 - Farmer Job Level: `15`
 - Travel `450000` Blocks
@@ -138,14 +136,14 @@ Requirements
 - Kill `5000` Monsters
 - Breed `350` Animals
 - Catch `1024` Fish
-
+---
 
 ### Tier 4 - Citizen
 - Total Homes: `20`
 - Total Creative Plots: `4`
-#### Commands
+Commands
 - `/hat`
-#### Requirements
+Requirements
 - Votes: `250`
 - Mine `12288` Blocks
 - Mine `12` Ancient Debris
@@ -156,13 +154,14 @@ Requirements
 - Kill `10` Elder Guardians
 - Kill `10` Withers
 - Kill `10` Ender Dragons
+---
 
 ### Tier 5 - Ranks
 - Total Homes: `25`
 - Total Creative Plots: `5`
 
 ### Elite
-#### Requirements
+Requirements
 - Votes: `350`
 - Mine `24576` Blocks
 - Mine `24` Ancient Debris
@@ -172,7 +171,7 @@ Requirements
 - Enchant `500` Items
 
 ### Titan
-#### Requirements
+Requirements
 - Votes: `350`
 - Elytra Travel `1000000` Blocks
 - Mine `2048` Oak Logs
@@ -181,18 +180,19 @@ Requirements
 - Breed `600` Animals
 
 ### Veteran
-#### Requirements
+Requirements
 - Votes: `350`
 - Travel `2000000` Blocks
 - Craft `5120` Items
 - Kill `25` Ender Dragons
 - Catch `2048` Fish
 - Trade with `300` Villagers
+---
 
 ### Tier 6 - Master
 - Total Homes: `30`
 - Total Creative Plots: `6`
-#### Requirements
+Requirements
 - Votes: `500`
 - Travel `3000000` Blocks
 - Elytra Travel `2000000` Blocks
@@ -205,3 +205,4 @@ Requirements
 - Breed `1000` Animals
 - Enchant `1000` Items
 - Trade with `500` Villagers
+---
