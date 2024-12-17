@@ -3,12 +3,15 @@
 - Note: All requirements are cumulative! Meaning they carry over to the next ranks.
 - Note: Changes can and will be made without notice. All changes will be documented appropriately. 
 - Note: This system is still being changed and optomized for the best player experience. If you believe there is a serious issue with anything, please let a Council know.
+---
+---
 
 ## Ranks and Info
 ### Tier 1 - Guest
 Perks
 - Total Homes: `5`
-- Total Creative Plots: `1`<br />
+- Total Creative Plots: `1`
+---
 
 ### Tier 2 - Apprentice
 Perks
@@ -25,7 +28,8 @@ Requirements
 - Mine `512` Stone
 - Kill `100` Monsters
 - Catch `50` Fish
-- Breed `10` Animals\
+- Breed `10` Animals
+---
 
 ### Tier 3 - Artisan Ranks
 - Total Homes: `15`
