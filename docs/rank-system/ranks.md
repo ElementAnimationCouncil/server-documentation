@@ -7,21 +7,21 @@
 
 ## Ranks and Info
 ### Tier 1 - Guest
-Perks
+#### Perks
 - Total Homes: `5`
 - Total Creative Plots: `1`
 ---
 
 ### Tier 2 - Apprentice
-Perks
+#### Perks
 - Total Homes: `10`
 - Total Creative Plots: `2`
 - Balloons: beachball, soccerball, pride, and pumpkin
-Commands
+#### Commands
 - `/back`
 - `/pcballoons`
 - `/headdb`
-Requirements
+#### Requirements
 - Votes: `20`
 - Mine `256` Oak Logs
 - Mine `512` Stone
@@ -34,12 +34,12 @@ Requirements
 - Total Homes: `15`
 - Total Creative Plots: `3`
 
-### Crafter
-Description
+### <u>Crafter</u>
+#### Description
 - The first of the Artisan Ranks; All of the perks of Apprentice, plus more!
-Commands
+#### Commands
 - `/craft`
-Requirements
+#### Requirements
 - Votes: `40`
 - Crafter Job Level: `20`
 - Craft `500` Items
@@ -51,11 +51,11 @@ Requirements
 - Mine `64` Mangrove Logs
 - Mine `64` Acacia Logs
 
-### Miner
-Description
-Commands
+### <u>Miner</u>
+#### Description
+#### Commands
 - `/dispose`
-Requirements
+#### Requirements
 - Votes: `80`
 - Miner Job Level: `25`
 - Mine `4096` Total Blocks
@@ -70,11 +70,11 @@ Requirements
 - Mine `8` Deepslate Diamond Ore
 - Enchant `10` Items
 
-### Blacksmith
-Description
-Commands
+### <u>Blacksmith</u>
+#### Description
+#### Commands
 - `/chestsort`
-Requirements
+#### Requirements
 - Votes: `120`
 - Weaponsmith Job Level: `15`
 - Mine `6144` Blocks
@@ -89,12 +89,12 @@ Requirements
 - Total Homes: `15`
 - Total Creative Plots: `3`
 
-### Explorer
-Description
-Commands
+### <u>Explorer</u>
+#### Description
+#### Commands
 - `/ptime`
 - `/pweather`
-Requirements
+#### Requirements
 - Votes: `40`
 - Explorer Job Level: `20`
 - Travel `250000` Blocks
@@ -104,11 +104,11 @@ Requirements
 - BoatTravel: `100000` Blocks
 - Talk to `100` Villagers
 
-### Hunter
-Description
-Commands
+### <u>Hunter</u>
+#### Description
+#### Commands
 - `/rtp`
-Requirements
+#### Requirements
 - Votes: `80`
 - Hunter Job Level: `20`
 - Kill `4000` Monsters
@@ -124,11 +124,11 @@ Requirements
 - Eat `224` Cake Slices
 - Catch `348` Fish
 
-### Trader
-Description
-Commands
+### <u>Trader</u>
+#### Description
+#### Commands
 - `/ec`
-Requirements
+#### Requirements
 - Votes: `120`
 - Farmer Job Level: `15`
 - Travel `450000` Blocks
@@ -141,9 +141,9 @@ Requirements
 ### Tier 4 - Citizen
 - Total Homes: `20`
 - Total Creative Plots: `4`
-Commands
+#### Commands
 - `/hat`
-Requirements
+#### Requirements
 - Votes: `250`
 - Mine `12288` Blocks
 - Mine `12` Ancient Debris
@@ -160,8 +160,8 @@ Requirements
 - Total Homes: `25`
 - Total Creative Plots: `5`
 
-### Elite
-Requirements
+### <u>Elite</u>
+#### Requirements
 - Votes: `350`
 - Mine `24576` Blocks
 - Mine `24` Ancient Debris
@@ -170,8 +170,8 @@ Requirements
 - Kill `25` Withers
 - Enchant `500` Items
 
-### Titan
-Requirements
+### <u>Titan</u>
+#### Requirements
 - Votes: `350`
 - Elytra Travel `1000000` Blocks
 - Mine `2048` Oak Logs
@@ -179,8 +179,8 @@ Requirements
 - Kill `10` Wardens
 - Breed `600` Animals
 
-### Veteran
-Requirements
+### <u>Veteran</u>
+#### Requirements
 - Votes: `350`
 - Travel `2000000` Blocks
 - Craft `5120` Items
@@ -192,7 +192,7 @@ Requirements
 ### Tier 6 - Master
 - Total Homes: `30`
 - Total Creative Plots: `6`
-Requirements
+#### Requirements
 - Votes: `500`
 - Travel `3000000` Blocks
 - Elytra Travel `2000000` Blocks
