@@ -34,7 +34,7 @@
 - Total Homes: `15`
 - Total Creative Plots: `3`
 
-### <u>Crafter</u>
+### <ins>Crafter</ins>
 #### Description
 - The first of the Artisan Ranks; All of the perks of Apprentice, plus more!
 #### Commands
@@ -51,7 +51,7 @@
 - Mine `64` Mangrove Logs
 - Mine `64` Acacia Logs
 
-### <u>Miner</u>
+### <ins>Miner</ins>
 #### Description
 #### Commands
 - `/dispose`
@@ -70,7 +70,7 @@
 - Mine `8` Deepslate Diamond Ore
 - Enchant `10` Items
 
-### <u>Blacksmith</u>
+### <ins>Blacksmith</ins>
 #### Description
 #### Commands
 - `/chestsort`
@@ -89,7 +89,7 @@
 - Total Homes: `15`
 - Total Creative Plots: `3`
 
-### <u>Explorer</u>
+### <ins>Explorer</ins>
 #### Description
 #### Commands
 - `/ptime`
@@ -104,7 +104,7 @@
 - BoatTravel: `100000` Blocks
 - Talk to `100` Villagers
 
-### <u>Hunter</u>
+### <ins>Hunter</ins>
 #### Description
 #### Commands
 - `/rtp`
@@ -124,7 +124,7 @@
 - Eat `224` Cake Slices
 - Catch `348` Fish
 
-### <u>Trader</u>
+### <ins>Trader</ins>
 #### Description
 #### Commands
 - `/ec`
@@ -160,7 +160,7 @@
 - Total Homes: `25`
 - Total Creative Plots: `5`
 
-### <u>Elite</u>
+### <ins>Elite</ins>
 #### Requirements
 - Votes: `350`
 - Mine `24576` Blocks
@@ -170,7 +170,7 @@
 - Kill `25` Withers
 - Enchant `500` Items
 
-### <u>Titan</u>
+### <ins>Titan</ins>
 #### Requirements
 - Votes: `350`
 - Elytra Travel `1000000` Blocks
@@ -179,7 +179,7 @@
 - Kill `10` Wardens
 - Breed `600` Animals
 
-### <u>Veteran</u>
+### <ins>Veteran</ins>
 #### Requirements
 - Votes: `350`
 - Travel `2000000` Blocks
