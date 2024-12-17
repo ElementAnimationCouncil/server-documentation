@@ -8,7 +8,7 @@
 ### Tier 1 - Guest
 Perks
 - Total Homes: `5`
-- Total Creative Plots: `1`\
+- Total Creative Plots: `1`<br />
 
 ### Tier 2 - Apprentice
 Perks
